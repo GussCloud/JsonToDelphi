@@ -2020,9 +2020,9 @@ BEGIN
 	System_SysConst_SAccessDenied,	L"File access denied"
 END
 
-/* c:\program files (x86)\embarcadero\studio\23.0\lib\Win32\debug\FMX.Filter.res */
-/* c:\program files (x86)\embarcadero\studio\23.0\lib\Win32\debug\FMX.Controls.Win.res */
-/* c:\program files (x86)\embarcadero\studio\23.0\lib\Win32\debug\sqids_block_list.res */
+/* c:\program files (x86)\embarcadero\studio\23.0\lib\Win32\release\FMX.Filter.res */
+/* c:\program files (x86)\embarcadero\studio\23.0\lib\Win32\release\FMX.Controls.Win.res */
+/* c:\program files (x86)\embarcadero\studio\23.0\lib\Win32\release\sqids_block_list.res */
 /* C:\Users\Gusta\Documents\GitHub\JsonToDelphi\fmx\uUpdateForm.fmx */
 /* C:\Users\Gusta\Documents\GitHub\JsonToDelphi\fmx\uSaveUnitForm.fmx */
 /* C:\Users\Gusta\Documents\GitHub\JsonToDelphi\fmx\uMainForm.fmx */
